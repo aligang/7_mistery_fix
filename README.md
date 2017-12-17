@@ -21,9 +21,9 @@ git clone https://github.com/aligang/7_mistery_fix.git
   - get_roots
 
 **get_roots** отвечает  за решение квадратного уравнения. Импортировать функцию кода можно, добавив следущую строчку:  
-'from quadratic_equation import get_roots'  
+```from quadratic_equation import get_roots```  
 и использовать укаказав коэффициенты квадратного уравнения, например  
-'root1,root2 = get_roots(a,b,c)'
+```root1,root2 = get_roots(a,b,c)```
 
 ## 6. Какие задачи этот кодик решает
 Код создан в учебных целях. В рамках учебного курса по веб-разработке ― [DEVMAN.org](https://devman.org)
